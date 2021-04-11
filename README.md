@@ -2,4 +2,4 @@
  Frogger browser game written in JavaScript.
 
  ## Play
- To play, open index.html in your browser.
+ Play at https://cartermcgee.github.io/frogger/
