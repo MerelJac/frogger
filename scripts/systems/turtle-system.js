@@ -109,7 +109,7 @@ MyGame.systems.TurtleSystem = function(spec) {
                 let turtle = turtles[value];
                 if(
                     turtle.center.x - (turtle.size.x / 2) < froggerPos.x &&
-                    turtle.center.x + (turtle.size.x / 2) > froggerPos.x
+                    turtle.center.x + (turtle.size.x / 2) > froggerPos.x 
                 ){
                     if(!onTurtle){
                         onTurtle = turtle.spriteIndex != 5;
